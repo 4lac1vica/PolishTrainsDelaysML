@@ -1,0 +1,20 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+env/
+*.env
+
+# data (foarte important)
+data/*.csv
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
