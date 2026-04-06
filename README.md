@@ -19,6 +19,7 @@ ML project which aims to predict the delays for Polish Railways.
 Acest proiect analizeaza intarzierile trenurilor de pe reteaua feroviara poloneza, folosind tehnici de Exploratory Data
 Analysis (EDA).
 
+
 Scopul este de a intelege : 
     
 - distributia intarzierilor 
@@ -61,7 +62,7 @@ Datasetul contine informatii despre trenuri. Coloanele principale sunt:
 4) Garile cu cele mai multe plecari 
    - identificarile hub-urilor principale
 
-
+    
 **Vizualizare**
 
 Datele sunt reprezentate folosind histograme si barcharts
