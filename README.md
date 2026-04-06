@@ -1,4 +1,4 @@
-# PolishTrainsDelaysML
+# Polish Train Delays
 ML project which aims to predict the delays for Polish Railways. 
 
 **Tools:** Anaconda Interpreter, PyCharm IDE, Jupyter Notebook.
