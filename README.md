@@ -70,7 +70,7 @@ Datele sunt reprezentate folosind histograme si barcharts
 
 Majoritatea intarzierilor sunt mici, de pana in 30 de minute. Dar exista si valori extreme. 
 Varsovia, Cracovia si Gdansk au cele mai aglomerate gari, din punctul de vedere al plecarilor si sosirilor.
-Cea mai frecventa ruta este Pruszkow - Otwock. 
+Cea mai frecventa ruta este Pruszkow - Otwock. Cel mai frecvent operator este PKP Intercity. 
 
 **Cum sa rulezi**
 
