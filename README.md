@@ -8,7 +8,7 @@ ML project which aims to predict the delays for Polish Railways.
 **Dataset:** https://www.kaggle.com/datasets/bartek358/train-delays
  
 
-**Note:** The project is still in progress.
+
 
 **Another Note:** The model it's pretty weak lmao.
 
